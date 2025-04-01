@@ -731,6 +731,7 @@ section,
   }
 }
 
+
 #hero {
   position: relative;
   overflow: hidden;
@@ -1800,7 +1801,6 @@ section,
   color: white;
   grid-column: span 1; 
   height: auto;
-  
 }
 
 .go-back {
