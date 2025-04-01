@@ -184,7 +184,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var swiper = new Swiper(heroSliderEl, {
       loop: true,
       autoplay: {
-        delay: 3500, 
+        delay: 5000, 
         disableOnInteraction: false,
       },
 
