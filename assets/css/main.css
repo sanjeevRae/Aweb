@@ -1791,6 +1791,17 @@ section,
   
 }
 
+
+.img4 {
+  background-image: url("../img/portfolio/cables11.webp"); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  color: white;
+  grid-column: span 1; 
+  height: auto;
+  
+}
 .go-back {
   position: absolute;
   top: 20px;
@@ -1824,7 +1835,7 @@ section,
   background-image: url("../img/portfolio/ph_ev.webp");
  }
 
- 
+
 }
 
 .next-previous {
